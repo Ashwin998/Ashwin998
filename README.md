@@ -1,7 +1,7 @@
 ![](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 <h1 align="center">Hi 👋, I'm Ashwin K</h1>
 <h3 align="center">A aspiring Cyber Security Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/74/d0/06/74d00626189f90860a679783b369d294.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin998&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin998" /> </p>
 
