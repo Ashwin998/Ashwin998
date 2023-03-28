@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
+![](https://i.pinimg.com/originals/1a/ca/14/1aca1432f8a8f93d4bd0932a8c0a6449.gif)
 <h1 align="center">Hi 👋, I'm Ashwin K</h1>
 <h3 align="center">A aspiring Cyber Security Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
